@@ -18,7 +18,7 @@
 
 ###
 
-<h1 align="center">Hello, Welcome to FishEatRice Page</h1>
+<h1 align="center">Welcome to FishEatRice Page</h1>
 
 ###
 
