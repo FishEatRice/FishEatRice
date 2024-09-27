@@ -42,6 +42,10 @@
 
 ###
 
+<h1 align="left"></h1>
+
+###
+
 <h3 align="left">💻 Language</h3>
 
 ###
@@ -62,6 +66,10 @@
 
 ###
 
+<h1 align="left"></h1>
+
+###
+
 <h3 align="left">🛠 Tools</h3>
 
 ###
@@ -79,6 +87,10 @@
   <img width="12" />
   <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/oracle/oracle-original.svg" height="40" alt="oracle logo"  />
 </div>
+
+###
+
+<h1 align="left"></h1>
 
 ###
 
