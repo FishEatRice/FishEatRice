@@ -38,7 +38,7 @@
 
 ###
 
-<p align="left">💼 Finding an internship around 28/10/2024 - 05/01/2025 (10 weeks) [Malaysia]<br>🔭 Self-learning C++ and Android Studio<br>💜 Studying in College<br>✈️ Learning Japanese in Duolingo</p>
+<p align="left">🔭 Self-learning C++ and Android Studio<br>💜 Studying in College<br>✈️ Learning Japanese in Duolingo</p>
 
 ###
 
