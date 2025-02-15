@@ -20,7 +20,7 @@
 
 ###
 
-<p align="left">👋 Hi, I’m @FishEatRice<br><br>👀 I’m interested in coding, watching anime or playing games<br>🌱 I’m currently learning Java and some new technical about website<br>💞️ I’m looking to collaborate with any company or help someone who needs help (I hope I can help you)<br>📫 Can reach me by using Gmail ( fisheatrice227@gmail.com )<br>😄 Pronouns: Big Fish will eat rice.<br>⚡ Fun fact: suddenly connect a Bluetooth speaker and play Tokoyami Towa music.</p>
+<p align="left">👋 Hi, I’m @FishEatRice<br><br>👀 I’m interested in coding, watching anime or playing games<br>🌱 I’m currently learning Java and some new technical about website<br>💞️ I’m looking to collaborate with any company or help someone who needs help (I hope I can help you)<br>📫 Can reach me by using Gmail ( fisheatrice227@gmail.com )<br>😄 Pronouns: 小问题，Small Problems.<br>⚡ Fun fact: suddenly connect a Bluetooth speaker and play Tokoyami Towa music.</p>
 
 ###
 
